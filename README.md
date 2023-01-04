@@ -2,8 +2,8 @@
 
 **EN**
 This program is used for one-day prediction of the value of a stock and is built on the principle of machine learning.
-
-Values entered by the user: 1. Stock (must be supported by Yahoo finance and is entered in an abbreviation format, eg 'AAPL').
+Values entered by the user: 
+1. Stock (must be supported by Yahoo finance and is entered in an abbreviation format, eg 'AAPL').
                             2. Start and end date of downloaded data.
                             3. Number of days from which the model will predict the next day's value.
                             4. Number of predicted days (these days are in the end of a downloaded dataset, the remaining data function as training days).
