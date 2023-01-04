@@ -4,20 +4,21 @@
 This program is used for one-day prediction of the value of a stock and is built on the principle of machine learning.
 Values entered by the user: 
 1. Stock (must be supported by Yahoo finance and is entered in an abbreviation format, eg 'AAPL').
-                            2. Start and end date of downloaded data.
-                            3. Number of days from which the model will predict the next day's value.
-                            4. Number of predicted days (these days are in the end of a downloaded dataset, the remaining data function as training days).
-                            5. Number of epochs (number of learning cycles on total training data)
+2. Start and end date of downloaded data.
+3. Number of days from which the model will predict the next day's value.
+4. Number of predicted days (these days are in the end of a downloaded dataset, the remaining data function as training days).
+5. Number of epochs (number of learning cycles on total training data)
 
-Point-by-point assembly of the program: 1. Initialization function
-                                        2. Downloading data from Yahoo finance
-                                        3. Data preparation - filtering and scaling
-                                        4. Creation of a training dataset
-                                        5. Machine learning model
-                                        6. Model training
-                                        7. Creation of a test dataset
-                                        8. Testing
-                                        9. Output in the form of a graph
+Point-by-point assembly of the program: 
+1. Initialization function
+2. Downloading data from Yahoo finance
+3. Data preparation - filtering and scaling
+4. Creation of a training dataset
+5. Machine learning model
+6. Model training
+7. Creation of a test dataset
+8. Testing
+9. Output in the form of a graph
 
 
 ********************************************************************************************************************************************************************
