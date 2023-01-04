@@ -1,6 +1,7 @@
 # OOP---Seminar-work
 
 **EN**
+
 This program is used for one-day prediction of the value of a stock and is built on the principle of machine learning.
 
 Values entered by the user: 
@@ -25,6 +26,7 @@ Point-by-point assembly of the program:
 ********************************************************************************************************************************************************************
 
 **CZ**
+
 Tento program slouží k jednodenní predikci hodnoty cenného papíru a je sestaven na principu strojového učení.
 
 Hodnoty zadávané uživatelem:
