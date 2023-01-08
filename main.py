@@ -117,5 +117,5 @@ class StockPredictionModel:
         plt.legend(loc='lower left')
         plt.show()
 
-## Inputs
+## Start
 model = StockPredictionModel(input[0], [input[0]], datetime(input[1], input[2], input[3]), datetime(input[4], input[5], input[6]), 'Close', input[7], input[8], input[9]).run_model()
