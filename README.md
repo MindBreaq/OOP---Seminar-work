@@ -12,6 +12,7 @@ Values entered by the user:
 5. Number of epochs (number of learning cycles on total training data)
 
 Point-by-point assembly of the program: 
+0. HMI
 1. Initialization function
 2. Downloading data from Yahoo finance
 3. Data preparation - filtering and scaling
@@ -37,6 +38,7 @@ Hodnoty zadávané uživatelem:
 5. Počet epoch (počet učebních cyklů na celkových tréninkových datech)
 
 Bodové sestavení programu:
+0. HMI
 1. Inicializační funce
 2. Stahování dat z Yahoo finance
 3. Příprava dat - filtrace a přeškálování
