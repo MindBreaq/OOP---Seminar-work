@@ -11,18 +11,17 @@ Values entered by the user:
 4. Number of predicted days (these days are in the end of a downloaded dataset, the remaining data function as training days).
 5. Number of epochs (number of learning cycles on total training data)
 
-Point-by-point assembly of the program: 
-0. HMI
-1. Initialization function
-2. Downloading data from Yahoo finance
-3. Data preparation - filtering and scaling
-4. Creation of a training dataset
-5. Machine learning model
-6. Model training
-7. Creation of a test dataset
-8. Testing
-9. Output in the form of a graph
-
+Point-by-point assembly of the program:
+1. HMI
+2. Initialization function
+3. Downloading data from Yahoo finance
+4. Data preparation - filtering and scaling
+5. Creation of a training dataset
+6. Machine learning model
+7. Model training
+8. Creation of a test dataset
+9. Testing
+10. Output in the form of a graph
 
 ********************************************************************************************************************************************************************
 
@@ -38,13 +37,13 @@ Hodnoty zadávané uživatelem:
 5. Počet epoch (počet učebních cyklů na celkových tréninkových datech)
 
 Bodové sestavení programu:
-0. HMI
-1. Inicializační funce
-2. Stahování dat z Yahoo finance
-3. Příprava dat - filtrace a přeškálování
-4. Tvorba trénovacího datasetu
-5. Model strojového učení
-6. Trénování modelu
-7. Tvorba testovacího datasetu
-8. Testování
-9. Výstup ve formě grafu
+1. HMI
+2. Inicializační funkce
+3. Stahování dat z Yahoo finance
+4. Příprava dat - filtrování a škálování
+5. Vytvoření trénovací datové sady
+6. Model strojového učení
+7. Trénink modelu
+8. Vytvoření testovacího datasetu
+9. Testování
+10. Výstup ve formě grafu
